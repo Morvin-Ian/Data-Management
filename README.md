@@ -1,3 +1,3 @@
 # Data-Management
-#Jupyter Notebook
-Manipulating Data with various Python libraries
+
+Manipulating Data with various Python libraries (Code execution-Jupyter notebook)
